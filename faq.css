@@ -1,3 +1,9 @@
+/* 導覽列 */
+.hamberger{
+    display: none;
+}
+/* 導覽列END */
+
 .faq-title::before{
     display: inline-block;
     content: "";
