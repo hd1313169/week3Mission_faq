@@ -1,0 +1,9 @@
+.faq-title::before{
+    display: inline-block;
+    content: "";
+    vertical-align: middle;
+    background-color: #9F1213;
+    width: 8px;
+    height: 48px;
+    margin-right: 16px;
+}
